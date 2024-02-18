@@ -1,64 +1,33 @@
-- 👋 Hi, I’m @rajik007
-- 👀 I’m interested in ...travelling, reading, cooking , meditation.
-- 🌱 I’m currently learning ...yoga, researching about manisfestation,affirmations (subconcious mind 💡)
-- 📫  reach me ...[Instagram](https://www.instagram.com/rajik_verve/)  [LinkedIn](www.linkedin.com/in/syed-rajik)
-- ⚡ Fun fact: ..."Don't let the fear of losing be greater than the excitement of winning"  ~Robert kiyosaki (realised lately 😄)
-
-# Hi there, I'm Syed Rajik 👋
-
-🔍Aspiring Frontend Developer | Self-Taught Enthusiast  😄| Lifelong Learner |logical-thinker| Transforming Dreams into Code 🚀
-
-After six years of dedicated preparation for the UPSC exams, I am embarking on an exciting journey into the world of technology as a Frontend Developer. My passion for crafting intuitive user interfaces and creating engaging web experiences drives me to continually expand my skills and embrace new challenges.
-
-## 🚀 Projects
-
-### [Project 1:my html and c learnings  ]
-
-After my 2 mains and one interview in UPSC exam, i am so much self doubted and lost my belief afterwards i brought  my hidden talent which i done good in my 12th standards as a computer maths student and the characters that were build through the process of preparing UPSC exam helped me to learn new things and understanding the concepts through the consistency and hard work gives a hope to my life.started  learning coding from the scratch when you have give commitment to the cause nothing is impossible 💪🏻🏆
-
- The process of learning html,css,java  shows in my repositories 
- 🧠 my html [https://github.com/rajik007/my-HTMl-works.git]
-🎨 my c [https://github.com/rajik007/my-c-learnings.git]
- ☕ java[https://github.com/rajik007/my-projects.git]
-
-🛠 After learning languages i done a project as  lookalike facebook which is childhood intrest.
-
-  Link~[https://github.com/rajik007/facebook-alike-socialbook-project.git]
-
-### [Project 2: my projects]
-
-A repository which shows my process of learning through the java language  ⚡
-
-[https://github.com/rajik007/my-projects.git]
-
-## 🛠️ Skills
-
-- **Languages:** HTML, CSS, JavaScript
-- **Technologies:** [React,node,npm,figma]
-- **Courses:** Completed a meta certified  Frontend Developer course on Coursera (Pack of 9 courses)
-
-## 📚 Learning Journey
-
-After completing six years of rigorous UPSC preparation, I decided to pivot to the IT sector. I successfully completed a comprehensive Frontend Developer course on Coursera, covering a range of essential topics. My journey continues as I explore and apply my knowledge to real-world projects.
-
-## 🌐 Connect with Me
-
-- [LinkedIn](www.linkedin.com/in/syed-rajik)
-- [GitHub](https://github.com/rajik007)
-  
+![MasterHead](https://pbs.twimg.com/media/EfSnekYWkAEs6mu?format=jpg&name=900x900)
+<h1 align="center">Hi 👋, I'm Syed Rajik</h1>
+<h3 align="center">A passionate frontend developer from India,🔍Aspiring Frontend Developer | Self-Taught Enthusiast 😄| Lifelong Learner |logical-thinker| Transforming Dreams into Code 🚀</h3>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
-## 👨‍💻 Looking Forward
+- 🌱 I’m currently learning **principles of ui/ux**
 
-I am actively seeking opportunities to contribute my skills as a Frontend Developer. While I may not have traditional work experience, I bring a wealth of determination, problem-solving skills, and a proven track record of self-directed learning.
+- 👯 I’m looking to collaborate on **Front end development**
 
-📧 Email: syedrajik1311@.com
-[Instagram](https://www.instagram.com/rajik_verve/)
+- 👨‍💻 All of my projects are available at [https://github.com/rajik007](https://github.com/rajik007)
 
-I'm eager to connect with mentors, fellow developers, and potential collaborators. Let's learn and grow together in the vast and exciting field of frontend development!
+- 💬 Ask me about **HTML,CSS,JAVA,github,React**
 
-⚡ **Keep coding, stay Java-fueled!** 😎
-<!---
-rajik007/rajik007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me **syedrajik1311@gmail.com**
+
+- ⚡ Fun fact **"Don't let the fear of losing be greater than the excitement of winning" ~Robert kiyosaki (realised lately 😄)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/syed-rajik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/syed-rajik" height="30" width="40" /></a>
+<a href="https://instagram.com/rajik_verve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajik_verve" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/rajik007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajik007" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajik007&show_icons=true&locale=en&layout=compact" alt="rajikverve" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajik007&show_icons=true&locale=en" alt="rajikverve" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajik007&" alt="rajikverve" /></p>
