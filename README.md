@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajik007
 - 👀 I’m interested in ...travelling, reading, cooking , meditation.
 - 🌱 I’m currently learning ...yoga, researching about manisfestation,affirmations (subconcious mind 💡)
-- 📫  reach me ...[Instagram](https://www.instagram.com/rajik_verve/)
+- 📫  reach me ...[Instagram](https://www.instagram.com/rajik_verve/)  [LinkedIn](www.linkedin.com/in/syed-rajik)
 - ⚡ Fun fact: ..."Don't let the fear of losing be greater than the excitement of winning"  ~Robert kiyosaki (realised lately 😄)
 
 # Hi there, I'm Syed Rajik 👋
