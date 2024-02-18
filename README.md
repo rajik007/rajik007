@@ -14,7 +14,7 @@ After six years of dedicated preparation for the UPSC exams, I am embarking on a
 
 ### [Project 1:my html and c learnings  ]
 
-After my 2 mains and one interview in UPSC exam, i am so much self doubted and lost my belief that my i brought  my hidden talent which i done good in my 12th standardsand the characters that were build through the process of preparing UPSC exam helped me to learn new things and understanding the concepts through the consistency and hard work gives a hope to my life. 
+After my 2 mains and one interview in UPSC exam, i am so much self doubted and lost my belief afterwards i brought  my hidden talent which i done good in my 12th standards as a computer maths student and the characters that were build through the process of preparing UPSC exam helped me to learn new things and understanding the concepts through the consistency and hard work gives a hope to my life.started  learning coding from the scratch when you have give commitment to the cause nothing is impossible 💪🏻🏆
 
  The process of learning html,css,java  shows in my repositories 
  🧠 my html [https://github.com/rajik007/my-HTMl-works.git]
