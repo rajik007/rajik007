@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **syedrajik1311@gmail.com**
 
-- ⚡ Fun fact **"Don't let the fear of losing be greater than the excitement of winning" ~Robert kiyosaki (realised lately 😄)**
+- ⚡ Fun fact ** “Loyalty is a two-way street. If I’m asking for it from you, you get it from me.”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
